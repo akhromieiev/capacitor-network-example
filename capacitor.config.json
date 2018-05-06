@@ -1,0 +1,6 @@
+{
+  "appId": "com.roma.capacitorNetworkExample",
+  "appName": "capacitor-network-example",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
